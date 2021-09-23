@@ -4,7 +4,7 @@
 
 ### Purpose
 
-- The purpose of this project was edit the AllStocksAnalysisRefactored code in order to loop through the entire stock dataset and output the total daily volume and return for all stocks using more efficient code than what was written previously, as evidenced by faster completion times. The output of the new code should match the output of the old code.
+- The purpose of this project was to edit the AllStocksAnalysisRefactored code in order to loop through the entire stock dataset and output the total daily volume and return for all stocks using more efficient code than what was written previously, as evidenced by faster completion times. The output of the new code should match the output of the old code.
 
 ## Results
 - The old code was inefficient at determining stock returns and volumes, because it had to loop over the entire dataset multiple times in order to get the necessary information.
